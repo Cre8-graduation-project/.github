@@ -33,11 +33,14 @@
 ## Main Features 
 
 ### [자기소개, 포트폴리오 작성 기능]
-- 자신의 작업물과 자신의 장점 등 자신을 보다 효율적으로 표현할 수 있도록 ```html``` 태그 와 이미지 등을 사용하여 
+- 자신의 작업물과 자신의 장점 등 자신을 보다 효율적으로 표현할 수 있도록 ```html``` 태그 와 이미지 등을 사용하여 어필 가능 
 
 | 초기화면 |
 |----------|
-|![splash](https://s5.ezgif.com/tmp/ezgif-5-4d0f4ec3cb.gif))|
+|![image](https://github.com/user-attachments/assets/bedb684e-3cda-4987-ad14-783e3ac8d933)
+
+![image](https://github.com/user-attachments/assets/66bf596a-f6a3-4ddb-8116-bb3198f0ff58)
+
 
 
 ### [구인 구직글 태그 기반 조회]
@@ -47,6 +50,17 @@
 | 구인 구직글 태그 기반 조회 |
 |----------|
 |![게시글 태그 기반 조회](https://github.com/user-attachments/assets/58c72753-9cfa-4a52-ac40-d5e0c4d0c0bc)|
+
+### [구인 구직글 조회]
+
+- 구인 구직글 확인 
+
+| 구인 구직글 확인 |
+|----------|
+|![구인 구직글 확인](![image](https://github.com/user-attachments/assets/40083481-4070-482d-ad58-49b3e4449fc5)|
+
+|![image](https://github.com/user-attachments/assets/d8dab2fd-cd98-4c17-af55-c420bbd72a23)|
+
 
 
 ### [채팅 기능]
