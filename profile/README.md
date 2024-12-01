@@ -1,12 +1,85 @@
-## Hi there 👋
+<div align="middle">
+<img src="" width="200" /> 
+<h1>Cre8</h1>
+<h3> 유튜버와 편집자를 위한 구인 구직 서비스</h3>
+<p>2024년인 지금, 국내외를 막론하고 전 세계적으로 유튜브를 비롯한 소규모 컨텐츠 시장이 폭발적으로 성장하고 있습니다.
 
-<!--
+이러한 컨텐츠 플랫폼이 성장함에 따라, 단순히 카메라로 동영상만 촬영해서 올리던 예전과 달리, 이제는 영상을 멋지게 가공해줄 영상 편집자, 다양한 언어로 컨텐츠를 현지화하는 자막 제작자, 그리고 전에 없던 아바타 컨텐츠를 제작하는 3D 그래픽 아티스트 등, 다양한 직업군에 대한 수요가 동시에 늘어나고 있는 상황입니다.
+그러나 현재 시장에서 서비스되고 있는 구인구직 서비스들은 이러한 컨텐츠 크리에이터들이 이용하기에는 다소 맞지 않는 부분들이 많은 실정입니다.
 
-**Here are some ideas to get you started:**
+이름만 들으면 알 수 있는 대다수의 구인구직 플랫폼은 기업 인증 및 사업자 등록증을 요구하고 있어, 소규모 미디어 채널 운영자는 이용하기 어렵다는 단점이 있고, 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+1인 미디어를 타겟으로 운영되고 있는 일부 서비스들은 ‘영상 편집’과 같은 특정 분야에만 한정되어 다양한 재능을 가진 크리에이터들을 만나거나 모을 수 없다는 단점이 있었습니다. 상황이 이렇다보니 적절한 일거리를 찾거나 사람을 구하는데 많은 이들이 어려움을 겪고 있는 실정입니다.Cre8은 이러한 문제를 해결하기 위해 시작된 서비스입니다.
+
+소규모 1인 미디어 창작자들을 대상으로, 다양한 재능을 가진 이들이 함께 모여 협업을 도모할 수 있는 구인구직 플랫폼을 추구합니다.
+
+여러 능력을 가진 사람들이 한 데 모일 수 있는 공간을 목표로 하는 만큼, 원하는 일자리와 사람을 쉽고 빠르게 찾을 수 있도록 여러 가지 장치들을 마련하고자 하였습니다.</p>
+
+
+## Team Members
+
+|      이진우(backend,ml)       |          이진우(frontend)         |                                                                                                       
+| :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | 
+|   <img width="160px" src="https://avatars.githubusercontent.com/dionisos198" />    |                      <img width="160px" src="https://avatars.githubusercontent.com/potatosalad775" />    |          
+| 홍익대학교 컴퓨터공학과 4학년 | 홍익대학교 컴퓨터공학과 4학년 | 
+
+
+
+## Architectures
+
+![image](https://github.com/user-attachments/assets/420c8eb2-f1dd-47a7-90f0-3fae632d36a6)
+
+
+## Main Features 
+
+### [자기소개, 포트폴리오 작성 기능]
+- 자신의 작업물과 자신의 장점 등 자신을 보다 효율적으로 표현할 수 있도록 ```html``` 태그 와 이미지 등을 사용하여 
+
+| 초기화면 |
+|----------|
+|![splash](https://s5.ezgif.com/tmp/ezgif-5-4d0f4ec3cb.gif))|
+
+
+### [구인 구직글 태그 기반 조회]
+
+- 구인 구직글 태그 기반 조회
+
+| 구인 구직글 태그 기반 조회 |
+|----------|
+|![게시글 태그 기반 조회](https://github.com/user-attachments/assets/58c72753-9cfa-4a52-ac40-d5e0c4d0c0bc)|
+
+
+### [채팅 기능]
+
+- 채팅 기능에 대한 설명
+
+| 채팅 화면 |
+|----------|
+|![채팅-기능](https://github.com/user-attachments/assets/8a1e8c05-66a3-45e3-84ba-7fd8cb3a4700)|
+
+
+### [유사 이미지 기반 추천 기능]
+
+| 채팅 화면 |
+|----------|
+|![추천 기능](https://velog.velcdn.com/images/dionisos198/post/e4ea2ac0-2781-4d17-a354-b6b4d6f21c5b/image.gif))|
+
+
+### [알림 확인 기능]
+
+| 알림 화면 |
+|----------|
+|![알림-확인-기능-](https://github.com/user-attachments/assets/2585c5f8-0060-4686-a8a0-4347c8762909)|
+
+
+
+
+
+
+
+### [커뮤니티 기능]
+
+| 채팅 화면 |
+|----------|
+|![커뮤니티](https://github.com/user-attachments/assets/a0eaa849-b8cd-4110-95b8-a91ed0eacbfc)|
+
